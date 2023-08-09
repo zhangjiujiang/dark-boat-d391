@@ -37,7 +37,8 @@ cloudflare workers
 到触发器tab下，点击添加自定义域，可以自定义一个域名给当前的worker，这个域名必须是已经添加到当前账户的域名或子域名，例如我添加了nft.yuminft.xyz
 <img width="998" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/a30a99ac-1df7-4440-bc92-5c0086b2d640">
 
-7.访问https://nft.yuminft.xyz/?image=https://3a3os-iyaaa-aaaam-aa72a-cai.raw.ic0.app/file/RPO75hlt3tDboEPoDmEwP就会触发cloudflare的worker程序
+7.访问https://nft.yuminft.xyz/?image=https://3a3os-iyaaa-aaaam-aa72a-cai.raw.ic0.app/file/RPO75hlt3tDboEPoDmEwP
+就会触发cloudflare的worker程序
 
 
  
