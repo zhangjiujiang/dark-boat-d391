@@ -27,6 +27,7 @@ cloudflare workers
 	<img width="1347" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/4f523b49-ab08-4ebc-88db-2dca7d912bc1">
 
  <img width="679" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/5547cac9-9a07-4bca-ae54-a891642770ac">
+ 
  		3.1.4 修改后等待cdn生效，cloudflare的域名就生效了
 
  4.在域名页面点击侧边栏：Worker Routes（Worker路由）
