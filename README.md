@@ -12,23 +12,23 @@ cloudflare workers
 
   3.1没有域名需要添加域名
 	
-    3.1.1选择添加站点
+  3.1.1选择添加站点
 		
-    <img width="1291" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/0b2d3053-517d-464b-80a3-f640a443324a">
+  <img width="1291" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/0b2d3053-517d-464b-80a3-f640a443324a">
 		
-    3.1.2 添加后需要更改为cloudflare的名称服务器
+  3.1.2 添加后需要更改为cloudflare的名称服务器
 		
-    <img width="1238" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/83f8edaf-f67e-4deb-a9b3-ae2ba064627e">
+  <img width="1238" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/83f8edaf-f67e-4deb-a9b3-ae2ba064627e">
 		
-    3.1.3 以GoDaddy为例进行更改名称服务器
+  3.1.3 以GoDaddy为例进行更改名称服务器
 		
-		<img width="1650" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/2fc603bd-bbd9-49c4-91d1-c3c291ec189f">
+	<img width="1650" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/2fc603bd-bbd9-49c4-91d1-c3c291ec189f">
 	
 	<img width="1347" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/4f523b49-ab08-4ebc-88db-2dca7d912bc1">
 
  <img width="679" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/5547cac9-9a07-4bca-ae54-a891642770ac">
  
- 		3.1.4 修改后等待cdn生效，cloudflare的域名就生效了
+ 	3.1.4 修改后等待cdn生效，cloudflare的域名就生效了
 
  4.在域名页面点击侧边栏：Worker Routes（Worker路由）
  <img width="1267" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/ee576313-7f3d-4d54-bda5-997b80f9b649">
