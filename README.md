@@ -33,7 +33,7 @@ cloudflare workers
  5.点击管理路由，该woker（dark-boat-d391）已经部署成功
  <img width="688" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/91bfe7bc-5e47-493d-88fc-b78593e2bb3a">
 
-6.点击dark-boat-d391，（点击快速编辑转到网页编辑器）
+6.点击dark-boat-d391，（点击快速编辑转到网页编辑器并部署）
 到触发器tab下，点击添加自定义域，可以自定义一个域名给当前的worker，这个域名必须是已经添加到当前账户的域名或子域名，例如我添加了nft.yuminft.xyz
 <img width="998" alt="image" src="https://github.com/zhangjiujiang/dark-boat-d391/assets/15085521/a30a99ac-1df7-4440-bc92-5c0086b2d640">
 
